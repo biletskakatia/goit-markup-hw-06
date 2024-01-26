@@ -91,7 +91,6 @@ display: flex;
 }
 
 .header-menu-list{
-/* display: flex;*/
 gap: 40px; 
 display: none;
 
