@@ -1197,7 +1197,7 @@ fill: #F4F4FD;
         (min-resolution: 192dpi) {
         .hero {
             background-image:linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)),
-            url(../images/people-office-tab-2x.jpg);
+            url(../images/people-office-desk-2x.jpg);
         }
     }
 
